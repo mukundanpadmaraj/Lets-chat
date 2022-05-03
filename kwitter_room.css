@@ -3,3 +3,6 @@ body{
     background: url("login page image.jpg");
     background-position: center;
 }
+.btn-danger{
+    float:right;
+}
